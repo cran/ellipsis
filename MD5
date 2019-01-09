@@ -1,12 +1,13 @@
-821537c7d65132f3aa9966567f691a8e *DESCRIPTION
+f7542f98d42b3f5fc39a11ef04e714b8 *DESCRIPTION
 bd36014eacb173f67d67423f8ff189c8 *NAMESPACE
+a111d7f32154bf3cddfdef2bd62e6176 *NEWS.md
 bbeaa0a3e5d17b641227fa04571c18ff *R/check.R
 8317e53610bbbcd9d75a5ba137f8cb3c *R/dots.R
 ed931e7ac11b5ed796c86739a8d13eea *R/safe.R
 f7a9aa331d5ec039af0b85623e7736a8 *README.md
 98022a9fecbd432a291f90d3b4891995 *man/check_dots_used.Rd
 95738d2ae11f3b13e875e21ac58f7a62 *man/safe_median.Rd
-01b7c4735216dcbb297fb4865c0da522 *src/dots.c
+628d1f1e564d796ae74eb7dc6654b0dc *src/dots.c
 39fdf14b81fa7de3235642e83c4d2004 *src/init.c
 d03f7b327e2ac7a03a1a7b095a590e62 *tests/testthat.R
 8f83f7e4de09f2baf6e3e30fa6ac8c31 *tests/testthat/test-dots.R
