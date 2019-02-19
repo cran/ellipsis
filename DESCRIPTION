@@ -1,5 +1,5 @@
 Package: ellipsis
-Version: 0.0.2
+Version: 0.1.0
 Title: Tools for Working with ...
 Description: In S3 generics, it's useful to take ... so that methods can
     have additional argument. But this flexibility comes at a cost: misspelled
@@ -19,9 +19,9 @@ BugReports: https://github.com/hadley/ellipsis/issues
 Depends: R (>= 3.1)
 Suggests: covr, testthat
 NeedsCompilation: yes
-Packaged: 2019-01-09 13:55:40 UTC; hadley
+Packaged: 2019-02-18 23:26:43 UTC; hadley
 Author: Hadley Wickham [aut, cre],
   RStudio [cph]
 Maintainer: Hadley Wickham <hadley@rstudio.com>
 Repository: CRAN
-Date/Publication: 2019-01-09 14:50:03 UTC
+Date/Publication: 2019-02-19 05:30:03 UTC
