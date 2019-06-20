@@ -7,7 +7,7 @@
 check_dots_unnamed(env = parent.frame())
 }
 \arguments{
-\item{env}{Environment in which to look for ...}
+\item{env}{Environment in which to look for \code{...}.}
 }
 \description{
 Named arguments in ... are often a sign of misspelled argument names.
@@ -19,5 +19,5 @@ f <- function(..., foofy = 8) {
 }
 
 f(1, 2, 3, foofy = 4)
-f(1, 2, 3, foof = 4)
+try(f(1, 2, 3, foof = 4))
 }

@@ -11,7 +11,9 @@ check_dots_used(env = parent.frame())
 }
 \description{
 Automatically sets exit handler to run when function terminates, checking
-that all elements of \code{...} have been evaluated.
+that all elements of \code{...} have been evaluated. If you use \code{\link[=on.exit]{on.exit()}}
+elsewhere in your function, make sure to use \code{add = TRUE} so that you
+don't override the handler set up by \code{check_dots_used()}.
 }
 \examples{
 f <- function(...) {
@@ -24,6 +26,6 @@ g <- function(x, y, ...) {
 }
 f(x = 1, y = 2)
 
-f(x = 1, y = 2, z = 3)
-f(x = 1, y = 2, 3, 4, 5)
+try(f(x = 1, y = 2, z = 3))
+try(f(x = 1, y = 2, 3, 4, 5))
 }
