@@ -1,4 +1,4 @@
-0ec9651afaab1f52ab6422d6ce99563b *DESCRIPTION
+c43d0dbe439c18a8322bb94023ed690a *DESCRIPTION
 deb6ceef8d8275f3c277fa8e6e486688 *NAMESPACE
 1f465706ab76806df1285217eae1837b *NEWS.md
 9ced16de82c120c9194c9ca4ed402aec *R/check.R
@@ -13,7 +13,7 @@ e4bdf07b6cade73bd099ded50baa96a1 *man/check_dots_unnamed.Rd
 81a2303f579958de76a4abd349f3151f *man/dots_empty.Rd
 8cd4fddc45df791205f3a22919bb5e21 *man/ellipsis-package.Rd
 2bfb7193d77664dce5eda8f79380925f *man/safe_median.Rd
-d01e8299e29520dc0bdb56317d941b3e *src/dots.c
+f1a51ed79b78c9c27f8faa4d79ff60d6 *src/dots.c
 bc81ff628a54a830af9295c7e3d56041 *src/init.c
 d03f7b327e2ac7a03a1a7b095a590e62 *tests/testthat.R
 4af9ba0b982d78e83d90857da56e57e1 *tests/testthat/test-check.R
