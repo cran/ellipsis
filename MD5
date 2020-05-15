@@ -1,8 +1,8 @@
-c5f68d2f5ac9b299baeb22533fd647e8 *DESCRIPTION
+11a193ed8293b9bfdd0d19c9dff89736 *DESCRIPTION
 deb6ceef8d8275f3c277fa8e6e486688 *NAMESPACE
-7580a2fc819653efefa54f500cea8f2f *NEWS.md
-e210d78a14fa29d6eb3e4b8e25a04513 *R/check.R
-89d6e3a696c39a10d3eb7c4e213af1b8 *R/dots.R
+ff8a59bcc3b4f95858005ec5f60d9359 *NEWS.md
+108f60054273430afb908f3b54360398 *R/check.R
+01e9def3508b208afb3692ccb469ede2 *R/dots.R
 0f95d2e1d6ec424ddfbffff4a4c3219d *R/ellipsis-package.R
 3321d65ecd14911f5e0c6b5e897d90e5 *R/safe.R
 4b9d33407534c5d3d09eae3e63470800 *R/utils.R
@@ -10,10 +10,11 @@ e210d78a14fa29d6eb3e4b8e25a04513 *R/check.R
 035035faa03b516347b501dd2b0112e9 *man/check_dots_empty.Rd
 bbf86474c189c6a3b838f4585d45bedd *man/check_dots_unnamed.Rd
 0e8518ea4a32cd40c09745d8355fc361 *man/check_dots_used.Rd
-81a2303f579958de76a4abd349f3151f *man/dots_empty.Rd
+9f82ff2096aefac16916f96d509f6abe *man/dots_empty.Rd
+4e4eb4889a9ac4c92ce7070e57f98e8f *man/dots_used.Rd
 21b77e043a0192ecee3e7600ffb4cd1c *man/ellipsis-package.Rd
 2bfb7193d77664dce5eda8f79380925f *man/safe_median.Rd
-f1a51ed79b78c9c27f8faa4d79ff60d6 *src/dots.c
+3de51f9eef2bceede82b2688ea26aac2 *src/dots.c
 bc81ff628a54a830af9295c7e3d56041 *src/init.c
 d03f7b327e2ac7a03a1a7b095a590e62 *tests/testthat.R
 7ec2cf883faab777bdc554a024c8c44a *tests/testthat/test-check.R
